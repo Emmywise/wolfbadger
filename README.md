@@ -3,7 +3,7 @@
 
 
 
-# User account Management App Introduction
+# User account/profile app Introduction
 
 The User Profile Management App is a Django application that allows users to create, view, edit, and delete their user profiles. It provides a user-friendly interface for managing personal profile information, such as name, address, phone number, and more.
 
