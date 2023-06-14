@@ -1,0 +1,31 @@
+# Python related
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pyi
+*.egg-info/
+dist/
+build/
+.mypy_cache/
+.pytest_cache/
+
+# Development environment
+venv/
+env
+dbsqlite3
+*.sqlite3
+
+# Static files
+/staticfiles/
+
+# Media files
+/media/
+
+# IDE or editor specific
+
+.vscode/
+
+# Dependency management
+pip-selfcheck.json
+pip-wheel-metadata/
